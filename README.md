@@ -16,17 +16,19 @@
   <a href="http://commitizen.github.io/cz-cli/"><img alt="Commitizen friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg"></a>
 </p>
 
-**With Tracing!**
+<p align="center">
+  <b>With Jaeger and CLI Logging</b>
+</p>
 
 <p align="center">
   <a href="https://yarnpkg.com/">
-    <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-yarn-2.png?raw=true" width="546">
+    <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-yarn-2.png?raw=true">
   </a>
 </p>
 
 <p align="center">
   <a href="https://yarnpkg.com/">
-    <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-ascii.jpg?raw=true" width="546">
+    <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-ascii.jpg?raw=true">
   </a>
 </p>
 
