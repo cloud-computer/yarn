@@ -16,6 +16,20 @@
   <a href="http://commitizen.github.io/cz-cli/"><img alt="Commitizen friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg"></a>
 </p>
 
+**With Tracing!**
+
+<p align="center">
+  <a href="https://yarnpkg.com/">
+    <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-yarn-2.png?raw=true" width="546">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://yarnpkg.com/">
+    <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-ascii.jpg?raw=true" width="546">
+  </a>
+</p>
+
 ---
 
 **Fast:** Yarn caches every package it has downloaded, so it never needs to download the same package again. It also does almost everything concurrently to maximize resource utilization. This means even faster installs.
