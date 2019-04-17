@@ -21,9 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yarnpkg.com/">
-    <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-yarn-2.png?raw=true">
-  </a>
+  <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-yarn-2.png?raw=true">
 </p>
 <p align="center">
   <i>Cloud Computer Packer Image Creation Jaeger Trace</i>
@@ -32,9 +30,7 @@
 <p></p>
 
 <p align="center">
-  <a href="https://yarnpkg.com/">
-    <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-ascii.jpg?raw=true">
-  </a>
+  <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-ascii.jpg?raw=true">
 </p>
 <p align="center">
   <i>Cloud Computer Packer Image Creation CLI Trace</i>
