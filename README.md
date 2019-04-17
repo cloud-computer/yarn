@@ -29,7 +29,7 @@
   <i>Cloud Computer Packer Image Creation Jaeger Trace</i>
 </p>
 
-<br>
+<p></p>
 
 <p align="center">
   <a href="https://yarnpkg.com/">
