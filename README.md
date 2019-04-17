@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center" font-size="1.3em">
+<p align="center">
   Fast, reliable, and secure dependency management.
 </p>
 
@@ -25,16 +25,18 @@
     <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-yarn-2.png?raw=true">
   </a>
 </p>
-<p align="center" font-size="0.8em">
+<p align="center">
   <i>Cloud Computer Packer Image Creation Jaeger Trace</i>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://yarnpkg.com/">
     <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-ascii.jpg?raw=true">
   </a>
 </p>
-<p align="center" font-size="0.8em">
+<p align="center">
   <i>Cloud Computer Packer Image Creation CLI Trace</i>
 </p>
 
