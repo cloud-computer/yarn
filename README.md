@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b>With Jaeger and CLI Logging</b>
+  <b>With Jaeger and CLI Tracing</b>
 </p>
 
 <p align="center">
@@ -25,11 +25,17 @@
     <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-yarn-2.png?raw=true">
   </a>
 </p>
+<p align="center">
+  <i>Cloud Computer Packer Image Creation Jaeger Trace</i>
+</p>
 
 <p align="center">
   <a href="https://yarnpkg.com/">
     <img alt="CLI Tracing" src="https://github.com/kawing-ho/kawing-ho.github.io/blob/master/assets/images/startup-ascii.jpg?raw=true">
   </a>
+</p>
+<p align="center">
+  <i>Cloud Computer Packer Image Creation CLI Trace</i>
 </p>
 
 ---
