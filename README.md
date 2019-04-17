@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b>With Jaeger and CLI Tracing</b>
+  <b>With Jaeger and CLI Tracing for Visualizing Cloud Computer Operations</b>
 </p>
 
 <p align="center">
